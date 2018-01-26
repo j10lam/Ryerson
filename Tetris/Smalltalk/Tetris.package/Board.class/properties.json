@@ -1,0 +1,17 @@
+{
+	"category" : "Tetris",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JonathanLam 10/5/2017 12:59",
+	"instvars" : [
+		"cols",
+		"rows",
+		"template",
+		"emptyRow" ],
+	"name" : "Board",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

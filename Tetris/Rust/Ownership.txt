@@ -1,0 +1,4 @@
+Name:   Jonathan Lam, Alexandre Roberge-Milanese
+Course: CPS506, Fall 2017, Assignment #4
+Due:    2017.12.04 23:59
+Credit: This is entirely our own work, except for the portions supplied by the professor and the book.

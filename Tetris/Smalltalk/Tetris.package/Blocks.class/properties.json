@@ -1,0 +1,18 @@
+{
+	"category" : "Tetris",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JonathanLam 10/5/2017 12:36",
+	"instvars" : [
+		"initial",
+		"letter",
+		"previous",
+		"current",
+		"frozen" ],
+	"name" : "Blocks",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Tetris",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"d" ],
+	"name" : "TestDice",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+Name:   Paul Boutot, Jonathan Lam
+Course: CPS506, Fall 2017, Assignment #3
+Due:    2017.11.13 23:59
+Credit: This is entirely my/our own work, except for the portions supplied by the professor and the book.

@@ -1,0 +1,15 @@
+{
+	"category" : "Tetris",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JonathanLam 10/5/2017 13:02",
+	"instvars" : [
+		"sequence",
+		"i" ],
+	"name" : "Dice",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

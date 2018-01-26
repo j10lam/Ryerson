@@ -1,0 +1,24 @@
+{
+	"category" : "Tetris",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JonathanLam 10/5/2017 13:09",
+	"instvars" : [
+		"board",
+		"dice",
+		"block",
+		"hit",
+		"bottom",
+		"commands",
+		"moveList",
+		"powerups",
+		"numPieces",
+		"gameOver",
+		"prevBlock" ],
+	"name" : "Game",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

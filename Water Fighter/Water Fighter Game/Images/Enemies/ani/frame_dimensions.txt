@@ -1,0 +1,3 @@
+#explosion_images = load_animation_images(46, 44, 'enemy1.png')
+#explosion_images = load_animation_images(60, 62, 'enemy2.png')
+#explosion_images = load_animation_images(66, 65, 'smoke.png')

@@ -1,0 +1,6 @@
+Controls are as follows:
+- WASD: Move up, left, down, right
+- K: Speed down
+- L: Speed up
+- P: Shoot
+- ESC: Quit game
